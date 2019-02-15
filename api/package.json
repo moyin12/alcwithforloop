@@ -1,0 +1,24 @@
+{
+  "name": "meal-booking-api",
+  "version": "1.0.0",
+  "description": "a simple meal booking app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moyin12/alcwithforloop.git"
+  },
+  "keywords": [
+    "meal",
+    "food",
+    "restaurant"
+  ],
+  "author": "\"Moyinoluwa Ariyo\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moyin12/alcwithforloop/issues"
+  },
+  "homepage": "https://github.com/moyin12/alcwithforloop#readme"
+}
